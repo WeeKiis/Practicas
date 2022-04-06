@@ -1,0 +1,10 @@
+#título{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: bisque;
+    border-radius: 20%;
+}
+
+#Click-aquí:hover{
+    color:red;
+}
